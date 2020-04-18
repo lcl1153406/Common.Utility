@@ -10,6 +10,10 @@
 [![JIRA sprint completion](https://img.shields.io/jira/sprint/https/jira.spring.io/94.svg)](https://github.com/Jimmey-Jiang/Common.Utility)
 [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg)](https://github.com/Jimmey-Jiang/Common.Utility)
 
+
+网上有各式各样的帮助类，公共类，但是比较零碎，经常有人再群里或者各种社交账号上问我有没有这个helper, 那个helper，于是萌生了收集全部helper的念头,以便日后使用.
+
+
 Various helper class
 
 
